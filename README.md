@@ -32,4 +32,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 Added netlify and then edge-functions folder to the root directory.
 Added JavaScript for simple Hello World test edge function from https://github.com/netlify/edge-functions-examples/blob/main/netlify/edge-functions/hello.js 
 
+Add the below to a netlify.toml file in the root directory:
+
+```
+[[edge_functions]]
+path = "/test"
+function = "hello"
+```
+
+
 
