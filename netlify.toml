@@ -1,3 +1,9 @@
 [[edge_functions]]
 path = "/test"
 function = "hello"
+
+
+[[redirects]]
+  from = "/images/*"
+  to = "/.netlify/builders/helloworld"
+  status = 200
