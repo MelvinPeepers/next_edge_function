@@ -1,6 +1,6 @@
 [[edge_functions]]
-path = "/test"
-function = "hello"
+  path = "/test"
+  function = "hello"
 
 
 [[redirects]]
