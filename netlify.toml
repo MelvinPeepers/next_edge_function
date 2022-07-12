@@ -4,6 +4,7 @@ function = "hello"
 
 
 [[redirects]]
-  from = "/images/*"
+  from = "/images/"
   to = "/.netlify/builders/helloworld"
   status = 200
+  force = true
