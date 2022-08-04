@@ -21,6 +21,10 @@
   align-items: center;
 }
 
+a {
+  color: blue;
+}
+
 .footer a {
   display: flex;
   justify-content: center;
