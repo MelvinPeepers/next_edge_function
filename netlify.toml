@@ -1,12 +1,7 @@
 [[edge_functions]]
-  path = "/test"
+  path = "/hello"
   function = "hello"
 
-[[redirects]]
-    from = "/odb"
-    to = "/.netlify/builders/helloWorld"
-    status = 200
-    force = true
 
 
 
