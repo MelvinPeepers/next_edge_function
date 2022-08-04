@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          <a href="https://example-edge-function-next.netlify.app/test">Click to test the Hello World Edge Functions</a>
+          <a href="https://example-edge-function-next.netlify.app/hello">Click to test the Hello World Edge Functions</a>
         </p>
 
       </main>
