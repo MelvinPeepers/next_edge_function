@@ -26,6 +26,4 @@ export default async (request, context) => {
       headers: { "Content-Type": "application/json" },
     }
   );
-
-  export const config = { path: "/location" };
 };
