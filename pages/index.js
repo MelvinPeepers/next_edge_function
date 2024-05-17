@@ -33,7 +33,7 @@ export default function Home() {
         <p className={styles.description}>
           <a
             className={styles.link}
-            href="https://example-edge-function-next.netlify.app/locations"
+            href="https://example-edge-function-next.netlify.app/geolocation"
           >
             Click to test the location typescript Edge Functions
           </a>
