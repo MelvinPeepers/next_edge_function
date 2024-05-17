@@ -1,6 +1,6 @@
 [[edge_functions]]
-  path = "/hello"
-  function = "hello"
+  function = "location"
+  path = "/location"
 
 
 
