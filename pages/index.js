@@ -27,7 +27,15 @@ export default function Home() {
             className={styles.link}
             href="https://example-edge-function-next.netlify.app/location"
           >
-            Click to test the Hello World Edge Functions
+            Click to test the location Edge Functions
+          </a>
+        </p>
+        <p className={styles.description}>
+          <a
+            className={styles.link}
+            href="https://example-edge-function-next.netlify.app/locations"
+          >
+            Click to test the location typescript Edge Functions
           </a>
         </p>
       </main>
