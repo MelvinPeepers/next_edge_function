@@ -1,3 +1,3 @@
 export default () => new Response("Updated hello!");
 
-export const config = { path: "/location" };
+export const config = { path: "/test" };
